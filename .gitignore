@@ -1,0 +1,26 @@
+# Dart and Flutter
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE files
+.idea/
+.vscode/
+
+# Android build files
+android/.gradle/
+android/local.properties
+android/key.properties
+
+# Sensitive files
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
